@@ -1,0 +1,15 @@
+# Nuxt / Vite
+.nuxt
+.output
+dist
+node_modules
+.cache
+.vite
+.idea
+.vscode
+*.log
+.env
+.env.local
+.DS_Store
+npm-debug.log
+pnpm-debug.log
